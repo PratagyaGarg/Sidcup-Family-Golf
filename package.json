@@ -1,0 +1,16 @@
+{
+  "name": "sidcupfamilygolf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "This Project is the clone of sidcup family golf \r What can we learn from this:-",
+  "dependencies": {
+    "remixicon": "^4.3.0"
+  },
+  "devDependencies": {}
+}
